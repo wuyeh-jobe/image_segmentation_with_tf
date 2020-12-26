@@ -1,0 +1,7 @@
+# Virtual Env #
+/venv36
+
+# Unwanted #
+/train
+examples_preprocessing_ImageMaskGenerator.ipynb
+jwuyeh_hw04.zip
